@@ -21,3 +21,6 @@ The dataset was first loaded and then divided into training and testing sets usi
 Additionally, the decision tree was visualized using matplotlib, which helped in understanding how the model makes decisions based on different features. Each node in the tree represents a condition, and the branches represent possible outcomes, making the model easy to interpret.
 
 This task helped me gain practical knowledge of machine learning concepts such as supervised learning, model training, evaluation, and visualization.
+
+#output
+<img width="1280" height="692" alt="Image" src="https://github.com/user-attachments/assets/2e1e43a5-3410-4a3a-8427-a24953465da6" />
